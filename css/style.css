@@ -1,0 +1,138 @@
+body{
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+    margin: 0;
+   color: #808080;
+    
+}
+ h1{
+    font-size: 5.625rem;
+    margin-top: 0;
+    color: #66BFBF;
+    line-height: 2;
+ }
+ h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+ }
+ a,h3{
+    color: #11999E;
+ }
+ .header{
+    text-align: left;
+    background-color: aliceblue;
+    
+ }
+ hr{
+    border: dotted #C0C0C0 6px ;
+    border-bottom: none;
+    width: 6%;
+    
+ }
+ .contact{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+ }
+ .twitter,.linkdin{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+ }
+
+
+ .top-container{
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    height: 35%;
+ }
+.middle-container{
+   height: 55%;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   
+}
+
+.bottom-container{
+   height: 10%;
+   background-color: aliceblue;
+   padding: 20px 0px 20px 0px;
+   
+}
+.skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+    line-height: 2;
+}
+
+.ahmadimg{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+.mern{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    float: left;
+}
+
+.python{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+a{
+   margin: 10px 20px;
+   text-decoration: none;
+}
+a:hover{
+   color:aqua;
+}
+
+.contact-me{
+   padding-top: 80px;
+}
+
+.profile{
+   padding: 30px 0px 50px 0px;
+}
+
+.copy-right{
+   color: aquamarine;
+   font-size: 1rem;
+   padding: 10px 0 10px 0;
+}
